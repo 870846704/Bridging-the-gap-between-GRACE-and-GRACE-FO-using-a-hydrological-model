@@ -12,8 +12,6 @@ Here is the introduction to the header of reconstruction:
 "month" Month of reconstruction time
 "model_no_B": Model_no before linear correction
 "model_snow_B": Model_snow before linear correction
-"model_linear_B": Model_linear before linear correction
 "model_no_A": Model_no after linear correction
 "model_snow_A": Model_snow after linear correction
-"model_linear_A": Model_linear after linear correction
 "model_best": Reconstruction from the best model with largest NSE in the validation period for an artificial gap
