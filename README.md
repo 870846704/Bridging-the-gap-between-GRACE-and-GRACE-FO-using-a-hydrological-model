@@ -1,7 +1,6 @@
 # Bridging-the-gap-between-GRACE-and-GRACE-FO-using-hydrological-models
 
-This data bridged the gap between GRACE and GRACE-FO using hydrological models. The Release 06 Version 02 GRACE and GRACE-FO dataset (RL06_v02) by the Jet Propulsion Laboratory (JPL) at 0.5 degree solution was collected as observed data. Specific information can be found in the article of "Bridging the gap between GRACE and GRACE-FO using hydrological models". The information about GRACE dataset and mascon resolution can be found at https://grace.jpl.nasa.gov/.
-
+This data bridged the gap between GRACE and GRACE-FO using hydrological models. The Release 06 Version 02 GRACE and GRACE-FO dataset (RL06_v02) from maxscon resolution by the Jet Propulsion Laboratory (JPL) at 0.5 degree solution was collected as observed data. Specific information can be found in the article of "Bridging the gap between GRACE and GRACE-FO using hydrological models". The information about GRACE dataset and mascon resolution can be found at https://grace.jpl.nasa.gov/. The "High resolution Figures" files include all figures for publications with 400 ppi.
 
 Here is the introduction to the header of reconstruction:
 
