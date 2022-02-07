@@ -12,4 +12,4 @@ lat: Latitude (degree)
 
 time: days since 1850-01-01 (Y/M/D)
 
-Please cite orinigial article：Zhang, X.， Li, J., Dong, Q., and et al. Bridging the gap between GRACE and GRACE-FO using a hydrological model. Science of The Total Environment, 153659, doi:https://doi.org/10.1016/j.scitotenv.2022.153659 (2022).
+Please cite orinigial article：Zhang, X., Li, J., Dong, Q., and et al. Bridging the gap between GRACE and GRACE-FO using a hydrological model. Science of The Total Environment, 153659, doi:https://doi.org/10.1016/j.scitotenv.2022.153659 (2022).
