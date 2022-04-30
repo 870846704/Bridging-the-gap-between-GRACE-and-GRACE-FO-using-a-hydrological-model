@@ -10,7 +10,7 @@ lon: longitude (degree)
 
 lat: Latitude (degree)
 
-time: days since 1850-01-01 (Y/M/D)
+time: days since 1850-01-01 (Y/M/D) Please note that monthly values represent monthly mean TWSA. You may approprimately interpretate them as TWSA in the middle of each month.
 
 Please cite orinigial article：Zhang, X. et al. Bridging the gap between GRACE and GRACE-FO using a hydrological model. Science of The Total Environment, 153659, doi:https://doi.org/10.1016/j.scitotenv.2022.153659 (2022).
 
